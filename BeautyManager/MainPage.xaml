@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:BeautyManager"
+             xmlns:schedule="clr-namespace:Syncfusion.SfSchedule.XForms;assembly=Syncfusion.SfSchedule.XForms"
+			 xmlns:calendar="clr-namespace:Syncfusion.SfCalendar.XForms;assembly=Syncfusion.SfCalendar.XForms"
+			 xmlns:buttons="clr-namespace:Syncfusion.XForms.Buttons;assembly=Syncfusion.Buttons.XForms"
+			 x:Class="BeautyManager.MainPage">
+
+	<!--<Label Text="Welcome to Syncfusion Xamarin.Forms!" 
+           VerticalOptions="Center" 
+           HorizontalOptions="Center" />-->
+	<!--<schedule:SfSchedule x:Name="schedule" >
+		<schedule:SfSchedule.HeaderStyle>
+			<schedule:HeaderStyle
+			BackgroundColor="#FADBD8" 
+			TextColor="Blue" 
+			FontFamily="Arial"/>
+		</schedule:SfSchedule.HeaderStyle>
+	</schedule:SfSchedule>-->
+
+	<buttons:SfButton
+                            Grid.Row="5"
+                            Margin="0,16"
+                            Clicked="SfButton_Clicked"
+                            HorizontalOptions="Fill"
+                            Style="{StaticResource GradientButtonStyle}"
+                            Text="LOG IN" />
+
+</ContentPage>

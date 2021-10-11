@@ -1,0 +1,9 @@
+﻿using System;
+
+namespace BeautyManager.License
+{
+	public class LicenseManager
+	{
+		public static string GetSyncfusionLicense => "NDY4MTkwQDMxMzkyZTMyMmUzMGJya3lEQzFvL3VZSGs1b2pKUVJ6VTc4NnFKVm1IU1l0dVJORlJUZzBGUXc9;NDY4MTkxQDMxMzkyZTMyMmUzMGpKR3NGZXVBbDh5a3llRkdTbHBqRTZmYmVzelJISnZZTVFpOVVncVRJaWM9;NDY4MTkyQDMxMzkyZTMyMmUzMFQ0SmNwWStlQW1DZ1dWT2RvWnVibVNyS2Y5WENiNEt2QmwrbVJaRkxCZk09";
+	}
+}

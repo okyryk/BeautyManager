@@ -1,0 +1,24 @@
+﻿Создание клиентского приложения OData v4 (C#)
+https://docs.microsoft.com/ru-ru/aspnet/web-api/overview/odata-support-in-aspnet-web-api/odata-v4/create-an-odata-v4-client-app
+
+OData Connected Service (VS2019)  Instead Odata Client Code Genarator (to VS2017)
+https://marketplace.visualstudio.com/items?itemName=marketplace.ODataConnectedService
+https://docs.microsoft.com/en-us/odata/client/code-generation-tool
+
+https://github.com/OData/ODataConnectedService
+
+
+https://localhost:44386/odata/$metadata
+
+OData documentation
+https://docs.microsoft.com/uk-ua/odata/
+
+wireshark filter port
+https://www.alphr.com/wireshark-filter-port/
+
+tcp.port == 44386
+
+http://support.moonpoint.com/network/tools/sniffing/wireshark/filter_http-get.php
+http.request.method==GET
+
+tcp.port == 44386 && http.request.method==GET

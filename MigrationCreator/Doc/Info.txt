@@ -1,0 +1,21 @@
+﻿https://medium.com/codechem/using-entityframework-core-and-sqlite-with-xamarin-forms-45de7a926b71
+https://www.entityframeworktutorial.net/efcore/entity-framework-core-migration.aspx
+
+https://stackoverflow.com/questions/60568312/xamarin-forms-sqlite-ef-core-3-migrations-and-lot-of-confussion
+
+https://docs.microsoft.com/en-us/ef/core/cli/powershell#other-target-frameworks
+
+dotnet ef migrations add -o <path-to-your-shared-lib> <MigrationName>
+
+Add-Migration InitialCreate -OutputDir .\BeautyManager -Context LocalDatabaseContext
+
+!!!!!!!!!!!!!!!!  Set the default project MigrationCreator
+
+Add-Migration InitialCreate -OutputDir C:\projects\syncfusion\BeautyManager\BeautyManager\BeautyManager\Migrations -Context LocalDatabaseContext
+
+
+Add-Migration InitialCreate
+
+C:\Users\Master\AppData\Local\BeautyManager   - this is datamase in WPF progect
+
+

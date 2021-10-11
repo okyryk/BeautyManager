@@ -1,0 +1,62 @@
+﻿https://www.syncfusion.com/kb/9002/how-to-apply-the-license-key-for-syncfusion-samples-published-in-github
+
+https://www.syncfusion.com/xamarin-ui-controls
+
+https://github.com/syncfusion/Xamarin-ExpenseAnalysis
+
+https://github.com/syncfusion/essential-ui-kit-for-xamarin.forms
+
+https://help.syncfusion.com/xamarin/button/gettingstarted
+
+https://stackoverflow.com/questions/49791068/using-local-images-in-wpf-preview-of-xamarin-forms
+
+
+
+LoginPage
+
+BackgroundImageSource="{core:OnPlatformOrientationStringValue Default=LoginBackground.png,
+                                                                  iOSPhoneLandscape=LoginBackground-Landscape.png,
+                                                                  iOSTabletLandscape=LoginBackground-Landscape.png}"
+
+
+                                                                  <StackLayout
+                    Margin="{core:OnPlatformOrientationThickness PhonePortrait='20,32',
+                                                                 PhoneLandscape='150,32',
+                                                                 TabletPortrait='200,50',
+                                                                 TabletLandscape='300,50',
+                                                                 Desktop='30'}"
+
+
+
+https://github.com/syncfusion/xamarin-localized-texts
+
+https://blog.syncfusion.com/blogs/post/localization-made-easy-for-syncfusion-xamarin-forms-components.aspx
+
+https://github.com/xamarin/xamarin-forms-samples/tree/main/UsingResxLocalization
+
+https://www.andiamo.co.uk/resources/iso-language-codes/
+
+
+https://github.com/CrossGeeks/SocialMediaAuthenticationSample
+
+https://www.syncfusion.com/kb/10298/how-to-load-data-from-sqlite-offline-database-into-sfcalendar-for-xamarin-android
+
+C:\Users\Master\Library
+https://github.com/NLog/NLog/wiki/File-target#filename-directory
+C:\Users\Master\AppData\Local\Packages\ec0cc741-fd3e-485c-81be-68815c480690_hma5z8g0e8z20\LocalState\Logs
+https://github.com/NLog/NLog/issues/3893
+
+
+
+
+https://github.com/PacktPublishing/Mobile-Development-with-.NET-Second-Edition
+
+sqlite
+https://docs.microsoft.com/ru-ru/ef/core/get-started/xamarin
+
+migration 
+https://medium.com/codechem/using-entityframework-core-and-sqlite-with-xamarin-forms-45de7a926b71
+
+https://github.com/codechem/XamarinEFCore
+
+Add-Migration InitialCreate
